@@ -1,0 +1,16 @@
+h1{
+	color: white;
+	align-content: center;
+	padding-left: 7px;
+	padding-top: 10px;
+}
+
+p{
+	color: white;
+	font-family: 'Nunito', sans-serif;
+	font-size: 15px;
+	text-align: justify;
+	padding-right: 7px;
+	padding-left: 7px;
+
+}
